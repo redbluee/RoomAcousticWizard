@@ -10,7 +10,7 @@ _footer = html.Div([
             dbc.Col([
                 html.Ul([
                     html.Li(
-                        html.A(html.I(className="fa-brands fa-github me-3 fa-1x", style={'color': 'white'}), href='https://github.com/redbluee/Raumakustik-CAD', target='_blank')
+                        html.A(html.I(className="fa-brands fa-github me-3 fa-1x", style={'color': 'white'}), href='https://github.com/redbluee/RoomAcousticWizard', target='_blank')
                     ),
                     html.Li(
                         html.A(html.I(className="fas fa-book me-3 fa-1x", style={'color': 'white'}), href='https://redbluee.github.io/Raumakustik-CAD/', title="Documentation", target='_blank')

@@ -3,10 +3,12 @@
 ## Table of Contents
 - [RoomAcousticWizard](#roomacousticwizard)
   - [Table of Contents](#table-of-contents)
+  - [Documentation](#documentation)
   - [User Guide](#user-guide)
-  - [Prerequisites](#prerequisites)
-    - [Python Environment Setup](#python-environment-setup)
 
+## Documentation
+
+The documentation for the RoomAcousticWizard tool is available at [https://redbluee.github.io/RoomAcousticWizard/](https://redbluee.github.io/RoomAcousticWizard/).
 
 ## User Guide
 
@@ -41,16 +43,3 @@ For further information about the used methods, please refer to the official nor
 
 <a name="din18041-ref"></a>
 [1] DIN 18041:2016-03. Hörsamkeit in Räumen – Anforderungen, Empfehlungen und Hinweise für die Planung. Beuth Verlag, Berlin.
-
-
-## Prerequisites
-
-
-### Python Environment Setup
-
-This guide outlines the steps to set up a consistent development environment for this project using Python's built-in `venv` module for virtual environments and `pip` for package management. [Python Packaging User Guide](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#create-and-use-virtual-environments)
-
-The `requirements.txt` file lists the project dependencies.
-```bash
-pip install -r requirements.txt
-```
